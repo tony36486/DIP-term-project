@@ -5,6 +5,6 @@ face swap
 1. run face_landmark_detection_ex get face landmark  
 2. run face_swap_lab get result  
   
-![][img_link]  
+![][img-link]  
   
-[img_link]:/result/Process Flow Chart.png "流程圖"
+[img-link]:/result/Process Flow Chart.png "流程圖"
